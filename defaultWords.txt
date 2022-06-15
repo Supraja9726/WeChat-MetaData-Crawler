@@ -1,0 +1,6 @@
+mall
+shopping
+movie
+music
+burger
+pizza

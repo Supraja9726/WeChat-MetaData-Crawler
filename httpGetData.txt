@@ -1,0 +1,1 @@
+[wechatSearch getSearchSuggestionData] [version 80009162] [scene 201] [isHomePage 0] [type 262208] {"scene":201,"version":80009162,"query":"%%QUERY%%","type":262208,"isHomePage":0,"requestType":false,"sugId":"","sessionId":"-1538862360900281592"}
